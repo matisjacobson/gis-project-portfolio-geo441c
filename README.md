@@ -8,7 +8,7 @@ Matis Jacobson
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro](https://github.com/jiashenyue/geo441-541/blob/main/basic-mapping/first-arcgis-mapping.ipynb)
+- [First map in ArcGIS Pro]([https://github.com/jiashenyue/geo441-541/blob/main/basic-mapping/first-arcgis-mapping.ipynb](https://colab.research.google.com/drive/1xoX8zR9GqeWhR2ybBnYQM1tMiX-gkOm8))
 - [Multiple map frames in one map layout](https://colab.research.google.com/drive/1Llii5S3Gi3hsEKSz4jKUoEdec4d-h2sa?usp=drive_link)
 
 ## Map Coordinate Basics
