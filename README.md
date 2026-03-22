@@ -14,3 +14,7 @@ Matis Jacobson
 ## Map Coordinate Basics
 
 - [Understanding map coordinates](https://github.com/jiashenyue/geo441-541/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
+
+## Web Mapping
+
+- This [comparison map](https://miamioh.maps.arcgis.com/apps/instant/compare/index.html?appid=91ce4ab443bd409292c97476df06ae00) showcases the difference in land surface temperature in Palm Springs, CA
