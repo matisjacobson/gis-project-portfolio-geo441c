@@ -18,3 +18,4 @@ Matis Jacobson
 ## Web Mapping
 
 - This [comparison map](https://miamioh.maps.arcgis.com/apps/instant/compare/index.html?appid=91ce4ab443bd409292c97476df06ae00) showcases the difference in land surface temperature in Palm Springs, CA
+- Here is a [web-mapping collection](https://arcg.is/fyrrX1) showcasing all of the work that I accomplished on ArcGIS Online
