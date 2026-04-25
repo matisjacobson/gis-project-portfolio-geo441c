@@ -22,4 +22,4 @@ Matis Jacobson
 
 ## Spatial Analysis
 
-- [Spatial Analysis](https://colab.research.google.com/drive/1JExCFr62VJ3je7sUXIAZ3ce3lS3IK405#scrollTo=fjCS886Up_cU)
+- [Spatial Analysis](https://github.com/matisjacobson/gis-project-portfolio-geo441c/blob/main/week_11_assignment_matisjacobson.ipynb)
