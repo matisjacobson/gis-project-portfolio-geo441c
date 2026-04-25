@@ -21,3 +21,5 @@ Matis Jacobson
 - Here is a [web-mapping collection](https://storymaps.arcgis.com/collections/e641c240585044b1b67fe6c0e52e03dc) showcasing all of the work that I accomplished on ArcGIS Online
 
 ## Spatial Analysis
+
+- [Spatial Analysis](https://colab.research.google.com/drive/1JExCFr62VJ3je7sUXIAZ3ce3lS3IK405#scrollTo=fjCS886Up_cU)
