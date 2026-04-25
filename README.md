@@ -26,4 +26,4 @@ Matis Jacobson
 
 ## Spatial Analysis for Raster Data
 
-- [Inspect different badnd composites of Landsat images]()
+- [Inspect different badnd composites of Landsat images](https://github.com/matisjacobson/gis-project-portfolio-geo441c/blob/main/spatial-analysis-raster-data/Matis_Jacobson_week_10_raster_analysis_Thomas_fire.ipynb)
