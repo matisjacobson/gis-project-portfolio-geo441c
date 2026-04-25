@@ -22,4 +22,4 @@ Matis Jacobson
 
 ## Spatial Analysis
 
-- [Spatial Analysis](https://github.com/matisjacobson/gis-project-portfolio-geo441c/blob/main/week_11_assignment_matisjacobson.ipynb)
+- [Spatial Analysis](https://github.com/matisjacobson/gis-project-portfolio-geo441c/blob/main/spatial-analysis-vector-data/replicating-john-snow-cholera.ipynb)
