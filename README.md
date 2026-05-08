@@ -30,5 +30,5 @@ Matis Jacobson
 
 ## Final Project
 
-- [Project Proposal Slides](https://github.com/matisjacobson/gis-project-portfolio-geo441c/blob/main/spatial-analysis-raster-data/Matis_Jacobson_week_10_raster_analysis_Thomas_fire.ipynb)
-- [Final Report (StoryMap)]((https://storymaps.arcgis.com/stories/0ae0879927f046fabcd778b6f9946e67)](https://docs.google.com/presentation/d/15dyXmqRW3NVBWWwYXL3E95amDhusmkek/edit?slide=id.p1#slide=id.p1))
+- [Project Proposal Slides](https://docs.google.com/presentation/d/15dyXmqRW3NVBWWwYXL3E95amDhusmkek/edit?slide=id.p1#slide=id.p1)
+- [Final Report (StoryMap)](https://storymaps.arcgis.com/stories/0ae0879927f046fabcd778b6f9946e67)
